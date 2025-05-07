@@ -16,14 +16,14 @@ This Java program asks for your name, age, General Weighted Average (GWA) from t
 ## Example Output
 
 ```bash
-Enter your name: John
-Enter your age: 20
-Enter your GWA last semester: 1.75
+Enter your name: Emman Cabz
+Enter your age: 19
+Enter your GWA last semester: 1.25
 You are currently enrolled at BCP? (True/False): True
 
-Your name is John
-You are 20 years old
-Your General Weighted Average is 1.75 for the last semester
+Your name is Emman Cabz
+You are 19 years old
+Your General Weighted Average is 1.25 for the last semester
 You are officially enrolled at BCP!
 ```
 
