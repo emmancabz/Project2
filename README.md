@@ -13,6 +13,20 @@ This Java program asks for your name, age, General Weighted Average (GWA) from t
 2. Open `Project2.java` inside the `project2` package.
 3. Run the program (Shift + F6 or click Run).
 
-### Author
+## Example Output
+
+```bash
+Enter your name: John
+Enter your age: 20
+Enter your GWA last semester: 1.75
+You are currently enrolled at BCP? (True/False): True
+
+Your name is John
+You are 20 years old
+Your General Weighted Average is 1.75 for the last semester
+You are officially enrolled at BCP!
+```
+
+## Author
 Emman Cabz
 
