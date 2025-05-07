@@ -1,4 +1,4 @@
-# Java Practice - Project2
+# Java Practice - Project 2
 
 ## Description 
 This Java program asks for your name, age, General Weighted Average (GWA) from the last semester, and whether you're enrolled at BCP. It then displays this information back to you.
