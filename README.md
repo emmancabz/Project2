@@ -9,10 +9,9 @@ This Java program asks for your name, age, General Weighted Average (GWA) from t
 - Checks if the user is enrolled at BCP and provides feedback based on their input.
 
 # How To Run
-1. Download or copy the 'Project2.java' file.
-2. Open the file in your preferred Java editor (e.g., Notepad, VS Code).
-3. Compile the program: 'javac Project2.java'
-4. Run the program: 'java Project2'
+1. Open the project in NetBeans.
+2. Open 'Project1.java' inside the 'project1' package.
+3. Run the program (Shift + F6 or click Run).
 
 # Author
 Emman Cabz
