@@ -13,7 +13,7 @@ This Java program asks for your name, age, General Weighted Average (GWA) from t
 2. Open `Project2.java` inside the `project2` package.
 3. Run the program (Shift + F6 or click Run).
 
-## Example Output
+## Sample Output
 
 ```bash
 Enter your name: Emman Cabz
